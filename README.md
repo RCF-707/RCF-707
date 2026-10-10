@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Reval Candra Febrian h1>
+<h1 align="center">Hi there 👋, I'm Reval Candra Febrian </h1>
 
 <p align="center">
   <b>Informatics student 🎓 | Learning cyber security 🔐 & programming 💻</b>
