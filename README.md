@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Reval Candra Febrian h1>
 
-<!--
-**Elyx-707/Elyx-707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Informatics student 🎓 | Learning cyber security 🔐 & programming 💻</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Always%20Curious-brightgreen?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Informatics Engineering (Teknik Informatika) student
+- 🔭 Currently exploring **cyber security** fundamentals
+- 💻 Learning **programming languages**, starting with **C++**, through small practice programs
+- 🔐 Interested in how systems are attacked, and how to defend them
+- 🌱 Learning by doing, one commit at a time
+- 📫 Reach me: 
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🎯 Learning Goals
+
+- [x] Learn C++ basics
+- [ ] Build more C++ practice projects
+- [ ] Understand core cyber security concepts
+- [ ] Try beginner-friendly CTF challenges
+- [ ] Write a cyber security project proposal / report
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+## 💬 Quote
+
+```cpp
+while (alive) { learn(); code(); repeat(); }
+```
+
+<p align="center">⭐ Thanks for stopping by! ⭐</p>
