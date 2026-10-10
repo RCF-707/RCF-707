@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Informatics Engineering (Teknik Informatika) student
+- 🎓 Informatics Engineering student
 - 🔭 Currently exploring **cyber security** fundamentals
 - 💻 Learning **programming languages**, starting with **C++**, through small practice programs
 - 🔐 Interested in how systems are attacked, and how to defend them
