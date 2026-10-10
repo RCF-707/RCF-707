@@ -37,11 +37,11 @@
 
 ## 🎯 Learning Goals
 
-- [x] Learn C++ basics
-- [ ] Build more C++ practice projects
-- [ ] Understand core cyber security concepts
-- [ ] Try beginner-friendly CTF challenges
-- [ ] Write a cyber security project proposal / report
+- Learn C++ basics
+- Build more C++ practice projects
+- Understand core cyber security concepts
+- Try beginner-friendly CTF challenges
+-  Write a cyber security project proposal / report
 
 ---
 
